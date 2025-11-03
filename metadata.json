@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Tareas del Hogar",
+  "description": "Una PWA para que los empleadores asignen y gestionen tareas para el personal doméstico. Incluye un panel de administración para crear tareas, un sistema de autenticación, notificaciones y un chat de comentarios por tarea.",
+  "requestFramePermissions": []
+}
